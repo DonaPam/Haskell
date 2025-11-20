@@ -1,0 +1,26 @@
+# Fichiers Stack
+.stack-work/
+dist/
+dist-newstyle/
+*.cabal
+cabal.project.local
+
+# Fichiers GHC
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Fichiers IDE
+.ghc.environment.*
+.haskell-ide-engine/
+.hie/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de backup
+*~
+\#*
+.\#*
